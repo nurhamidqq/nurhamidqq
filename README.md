@@ -8,7 +8,7 @@
    <!-- Vs Code -->   
    <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VS code" width="40" height="40"/>
    <!-- Flutter -->   
-   <img src="https://storage.googleapis.com/cms-storage-bucket/6e19fee6b47b36ca613f.png" alt="Flutter" width="100" height="40"/>
+   <img src="https://storage.googleapis.com/cms-storage-bucket/6e19fee6b47b36ca613f.png" alt="Flutter" width="100" height="35"/>
    <!-- Html -->   
    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="Html" width="40" height="40"/>
    <!-- CSS -->   
