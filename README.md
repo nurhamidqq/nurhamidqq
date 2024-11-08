@@ -10,7 +10,7 @@
    <!-- Flutter -->   
    <img src="https://img.icons8.com/color/512/flutter.png" alt="Flutter" width="40" height="40"/>
    <!-- Kubernetes -->
-   <img src="https://upload.wikimedia.org/wikipedia/labs/b/ba/Kubernetes-icon-color.svg" alt="Flutter" width="40" height="40"/>
+   <img src="https://avatars.githubusercontent.com/u/13629408?s=40&v=4" alt="Flutter" width="40" height="40"/>
    <!-- Docker -->
    <img src="https://img.icons8.com/?size=512&id=cdYUlRaag9G9&format=png" alt="Flutter" width="40" height="40"/>
    <!-- CodeIgniter -->   
